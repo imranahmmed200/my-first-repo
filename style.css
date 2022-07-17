@@ -1,3 +1,40 @@
-h1{
-    color: aqua;
+body {
+    font-family: 'Rubik', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.sylet {
+    color: orangered;
+}
+
+.imran {
+    text-align: justify;
+
+}
+
+section {
+    display: flex;
+}
+
+.di {
+    width: 50%;
+
+    padding: 4%;
+}
+
+.di img {
+    width: 100%;
+    height: 110%;
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(orangered, rgb(160, 74, 43));
+    padding: 10px 40px;
+    border-radius: 15px;
+    color: bisque;
+    font-weight: 800;
 }
